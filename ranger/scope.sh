@@ -1,0 +1,1 @@
+/home/alexis/dotfiles/.config/ranger/scope.sh
