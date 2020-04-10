@@ -10,6 +10,7 @@
 * hotkeys: sxhkd
 * files: ranger
 * fetch: pfetch
+* wallpapers: set by wal, rotating through [these](https://github.com/alxsdhm/wallpaper)
 
 ![screenshot of desktop with pfetch](https://github.com/alxsdhm/linuxdots/blob/master/screenshots/2020-04-09_19:50:38_scrot.png)
 
